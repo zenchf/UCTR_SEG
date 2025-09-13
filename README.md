@@ -30,3 +30,4 @@ cuda 1.12/cudnn 8.9/ nvidia RTX 3080
 NumPy, OpenCV, Matplotlib, etc.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Note: I regret python and tensorflow used in computer vision projects, in the future project i just use c
