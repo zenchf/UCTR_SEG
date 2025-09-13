@@ -5,6 +5,11 @@ This repository performs lung and heart segmentation from chest X-ray images usi
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📂 Dataset ###
 The dataset can be downloaded from the following link:
+https://drive.google.com/file/d/1Teg8gHN7-Pg5-V-_7HoIG7iU5DLv7xs4/view?usp=drive_link
+
+### 📂 Pretrained Model ###
+The pretrained model can be downloaded from the following link:
+https://drive.google.com/file/d/1Teg8gHN7-Pg5-V-_7HoIG7iU5DLv7xs4/view?usp=sharing
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🛠 Repository Structure ###
