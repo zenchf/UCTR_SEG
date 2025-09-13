@@ -7,6 +7,22 @@ The dataset can be downloaded from the following link:
 
 ### 🛠 Repository Structure ###
 model.py → Contains the U-Net architecture for segmentation.
+
 data.py → Data preprocessing utilities.
+
 main.py → Training script.
+
 mode/config.py → Configuration and command-line arguments.
+
+
+This project was built and tested with legacy versions of TensorFlow and Keras:
+
+Python 3.7.17
+
+TensorFlow 1.14.0
+
+Keras 2.2.4
+
+cuda 1.12/cudnn 8.9/ nvidia RTX 3080 
+
+NumPy, OpenCV, Matplotlib, etc.
